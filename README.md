@@ -13,9 +13,8 @@ Clean Architecture, MVVM, 모듈화, Swift Concurrency 등 현대적인 스택�
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://yourblog.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sonjyeong96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%EC%98%81-%EC%86%90-2790142ba/)
 
 </div>
 
@@ -137,7 +136,7 @@ let highlights = [
 ## 🏆 Major Projects
 
 <details>
-<summary><b>📱 현대백화점 앱 (2025.09 ~ 2026.02) - Tuist 기반 모듈화</b></summary>
+<summary><b>📱 현대백화점 앱 (2025.09 ~ 진행중) - Tuist 기반 모듈화</b></summary>
 
 **Tech Stack**: Swift, SwiftUI, Tuist, Clean Architecture, Swinject DI, Combine
 
