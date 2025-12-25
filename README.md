@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=iOS%20Developer&fontSize=70&fontAlignY=35&desc=%EC%86%90%EC%A7%80%EC%98%81%20%7C%20Architecture%20%C2%B7%20Stability%20%C2%B7%20Hybrid&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=iOS%20Developer&fontSize=70&fontAlignY=35&desc=%EC%86%90%EC%A7%80%EC%98%81%20%7C%20Architecture%20%C2%B7%20Hybrid&descAlignY=55&descSize=20)
 
 <div align="center">
 
@@ -15,6 +15,7 @@ Clean Architecture, MVVM, 모듈화, Swift Concurrency 등 현대적인 스택�
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sonjyeong96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%EC%98%81-%EC%86%90-2790142ba/)
+[![PORTPOLIO](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Chbee/Chbee/releases/download/career-note-1.0/iOSDeveloper-SonJiYoung-.pdf)
 
 </div>
 
@@ -104,35 +105,6 @@ Clean Architecture, MVVM, 모듈화, Swift Concurrency 등 현대적인 스택�
 
 ---
 
-## 🎯 Key Achievements
-
-```swift
-let highlights = [
-    "Architecture": [
-        "Clean Architecture 전면 재설계로 테스트 가능성 및 유지보수성 개선",
-        "Tuist 도입으로 모듈 간 의존성 관리 및 빌드 효율 향상",
-        "MVC → MVVM/Clean Architecture 전환 (빌드 시간 30초+ → 대폭 단축)"
-    ],
-    "Performance": [
-        "메모리 최적화: Kingfisher Downsampling으로 1.47GB → 400MB (70% 감소)",
-        "대용량 콘텐츠(100화+) 환경에서 크래시 제로 달성",
-        "이미지 캐싱 전략 재설계로 스크롤 성능 개선"
-    ],
-    "Problem Solving": [
-        "2019년 이후 미문서화 레거시 코드 전체 분석 및 핵심 플로우 정리",
-        "Crashlytics 도입으로 API 파싱 크래시 재발률 대폭 감소",
-        "iOS 18 호환성, PrivacyManifest, URL Scheme 50개 제한 등 정책 이슈 선제 대응"
-    ],
-    "Integration": [
-        "WKWebView JS Bridge 구조 설계 및 웹-앱 통신 안정화",
-        "광고(AdMob, TNK), 결제(삼성 모니모), 로그인(Kakao, Naver, Apple) SDK 연동",
-        "크로스 도메인 쿠키 관리, Ajax 기반 URL 추적 등 복잡한 하이브리드 구조 구현"
-    ]
-]
-```
-
----
-
 ## 🏆 Major Projects
 
 <details>
@@ -189,18 +161,6 @@ let highlights = [
 
 ---
 
-## 📝 Currently Focusing On
-
-```swift
-let currentFocus = [
-    "SwiftUI + TCA (The Composable Architecture) 심화 학습",
-    "Tuist를 활용한 대규모 모듈화 전략 연구",
-    "Swift Testing 프레임워크 적용 및 테스트 커버리지 향상",
-    "성능 모니터링 자동화 및 지표 시각화"
-]
-```
-
----
 
 <div align="center">
 
