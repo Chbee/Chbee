@@ -15,7 +15,7 @@ Clean Architecture, MVVM, 모듈화, Swift Concurrency 등 현대적인 스택�
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sonjyeong96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%EC%98%81-%EC%86%90-2790142ba/)
-[![PORTPOLIO](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Chbee/Chbee/releases/download/career-note-1.0/iOSDeveloper-SonJiYoung-.pdf)
+[![PORTPOLIO](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Chbee/Chbee/releases/download/profile-1.0/Portfolio_JiyoungSon_iOS_Developer_2025.pdf)
 
 </div>
 
